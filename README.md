@@ -23,10 +23,8 @@ To use this repo you must.
 3. Enable Email/Password and Apple providers for authentication
 4. Add Firestore as the database.
 
-
-
 The starter project and video is available in the notes for the video.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=u3RIfxSk1As
-" target="_blank"><img src="http://img.youtube.com/vi/u3RIfxSk1As/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ro2BEKoclRY
+" target="_blank"><img src="http://img.youtube.com/vi/Ro2BEKoclRY/0.jpg" 
 alt="SwiftUI Property Wrappers - 2" width="480" height="360" border="10" /></a>
